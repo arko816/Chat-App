@@ -1,5 +1,3 @@
-// const io = require("socket.io-client")
-
 // // const io = require('socket.io8)(3000)
 const socket = io('http://localhost:8000');
 
